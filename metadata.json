@@ -1,0 +1,6 @@
+{
+  "name": "Hesap Makinesi - Enes Öztürk",
+  "description": "Switch-case karar yapısı kullanılarak geliştirilmiş modern ve interaktif hesap makinesi ödevi. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
