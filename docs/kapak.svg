@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Hesap Makinesi — Enes Öztürk">
+<style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1px}.m{font-family:'Consolas',monospace}.s{font-family:Georgia,serif}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:3px}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B12"/><stop offset="0.55" stop-color="#0A1018"/><stop offset="1" stop-color="#0C1420"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E7C07B"/><stop offset="1" stop-color="#8FB8A8"/></linearGradient>
+<radialGradient id="gl" cx="0.8" cy="0.2" r="0.7"><stop offset="0" stop-color="#E7C07B" stop-opacity="0.16"/><stop offset="1" stop-color="#E7C07B" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#gl)"/>
+<line x1="0" y1="0" x2="0" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="40" y1="0" x2="40" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="80" y1="0" x2="80" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="120" y1="0" x2="120" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="160" y1="0" x2="160" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="200" y1="0" x2="200" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="240" y1="0" x2="240" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="280" y1="0" x2="280" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="320" y1="0" x2="320" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="360" y1="0" x2="360" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="400" y1="0" x2="400" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="440" y1="0" x2="440" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="480" y1="0" x2="480" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="520" y1="0" x2="520" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="560" y1="0" x2="560" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="600" y1="0" x2="600" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="640" y1="0" x2="640" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="680" y1="0" x2="680" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="720" y1="0" x2="720" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="760" y1="0" x2="760" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="800" y1="0" x2="800" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="840" y1="0" x2="840" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="880" y1="0" x2="880" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="920" y1="0" x2="920" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="960" y1="0" x2="960" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1000" y1="0" x2="1000" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1040" y1="0" x2="1040" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1080" y1="0" x2="1080" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1120" y1="0" x2="1120" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1160" y1="0" x2="1160" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1200" y1="0" x2="1200" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="1240" y1="0" x2="1240" y2="640" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="0" x2="1280" y2="0" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="40" x2="1280" y2="40" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="80" x2="1280" y2="80" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="120" x2="1280" y2="120" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="160" x2="1280" y2="160" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="200" x2="1280" y2="200" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="240" x2="1280" y2="240" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="280" x2="1280" y2="280" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="320" x2="1280" y2="320" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="360" x2="1280" y2="360" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="400" x2="1280" y2="400" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="440" x2="1280" y2="440" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="480" x2="1280" y2="480" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="520" x2="1280" y2="520" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="560" x2="1280" y2="560" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<line x1="0" y1="600" x2="1280" y2="600" stroke="#FFFFFF" stroke-opacity="0.025"/>
+<rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
+<text x="56" y="58" class="cap" font-size="11" fill="#8FB8A8">PROJE</text>
+<text x="1224" y="58" text-anchor="end" class="m" font-size="11" fill="#48566B">28 · PROJE</text>
+<line x1="56" y1="76" x2="1224" y2="76" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="56" y="186" class="ttl" font-size="62" fill="#F2F6FB">Hesap Makinesi — Enes Öztürk</text>
+<rect x="58" y="212" width="76" height="3" rx="1.5" fill="url(#ac)"/>
+<text x="58" y="252" class="t" font-size="17" fill="#94A6BE">Hesap Makinesi - Enes Öztürk — Enes Öztürk imzalı proje</text>
+<circle cx="64" cy="314" r="3.5" fill="#E7C07B" fill-opacity="0.85"/>
+<text x="80" y="320" class="t" font-size="14" fill="#AFC0D6">Hesap Makinesi - Enes Öztürk — Enes Öztürk imzalı proje</text>
+<circle cx="64" cy="354" r="3.5" fill="#E7C07B" fill-opacity="0.85"/>
+<text x="80" y="360" class="t" font-size="14" fill="#AFC0D6">Kaynak kodu ve yapı</text>
+<circle cx="64" cy="394" r="3.5" fill="#E7C07B" fill-opacity="0.85"/>
+<text x="80" y="400" class="t" font-size="14" fill="#AFC0D6">Kurulum adımları</text>
+<rect x="696" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="696" y="300" width="160" height="3" rx="1.5" fill="#E7C07B" fill-opacity="0.7"/>
+<text x="714" y="342" class="t" font-size="26" font-weight="700" fill="#E7C07B">3</text>
+<text x="714" y="368" class="m" font-size="10.5" fill="#7E8FA8">bölüm</text>
+<rect x="872" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="872" y="300" width="160" height="3" rx="1.5" fill="#8FB8A8" fill-opacity="0.7"/>
+<text x="890" y="342" class="t" font-size="26" font-weight="700" fill="#8FB8A8">TypeScript</text>
+<text x="890" y="368" class="m" font-size="10.5" fill="#7E8FA8">dil</text>
+<rect x="1048" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="1048" y="300" width="160" height="3" rx="1.5" fill="#8FB8A8" fill-opacity="0.7"/>
+<text x="1066" y="342" class="t" font-size="26" font-weight="700" fill="#8FB8A8">1</text>
+<text x="1066" y="368" class="m" font-size="10.5" fill="#7E8FA8">depo</text>
+<line x1="56" y1="544" x2="1224" y2="544" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="56" y="582" class="t" font-size="18" font-weight="600" fill="#E9F0FB">Enes Öztürk</text>
+<text x="56" y="606" class="m" font-size="11.5" fill="#5A6B88">github.com/EnesBinMalik</text>
+<text x="1224" y="582" text-anchor="end" class="cap" font-size="10.5" fill="#8FB8A8">EL EMEĞİ · İMZALI</text>
+<text x="1224" y="606" text-anchor="end" class="m" font-size="11" fill="#3F4C60">tasarım &amp; geliştirme · Enes Öztürk</text>
+</svg>
